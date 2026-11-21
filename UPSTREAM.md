@@ -6,7 +6,7 @@ In traffic 2.13, `Flight.resample("1s")` fills numeric fields across missing rep
 
 The OpenSky quickstart sample includes a reproducible case in MSR799 (ICAO `0101de`) on October 7, 2021. The reference altitude plateaus near 11,000 ft from 12:15:34 to 12:15:58 UTC. Keep the reports at 12:15:16 and 12:16:16 UTC and remove the 59 reports strictly between them. Default resampling fills the gap with a descent and the level-off detector no longer finds the event.
 
-From the Gapbench repository, with the dependencies in `requirements.txt` installed:
+From the ADS-B Gap Audit repository, with the dependencies in `requirements.txt` installed:
 
 ```sh
 python gapbench.py

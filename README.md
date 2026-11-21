@@ -1,8 +1,8 @@
-# Gapbench
+# ADS-B Gap Audit
 
 **Measuring downstream bias from ADS-B gap filling**
 
-Gapbench is a standalone benchmark for retrospective civil flight analysis. The first task checks whether resampling a flight with missing reports can erase a descent level-off and leave a continuous-looking altitude trace.
+ADS-B Gap Audit is a standalone benchmark for retrospective civil flight analysis. The first task checks whether resampling a flight with missing reports can erase a descent level-off and leave a continuous-looking altitude trace.
 
 ## Reproduce
 
