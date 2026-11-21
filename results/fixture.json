@@ -1,0 +1,12 @@
+{
+  "aircraft": "0101de",
+  "callsign": "MSR799",
+  "split": "discovery",
+  "event_start": 1633608934,
+  "event_end": 1633608958,
+  "target_span_s": 60,
+  "left_anchor": 1633608916,
+  "right_anchor": 1633608976,
+  "removed_reports": 59,
+  "erased": true
+}
